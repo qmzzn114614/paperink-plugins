@@ -1,0 +1,17 @@
+{
+  "name": "PaperInk 插件市场",
+  "updatedAt": "2026-11-11",
+  "plugins": [
+    {
+      "id": "com.dsh.paperink.plugintest",
+      "name": "测试画星书签",
+      "description": "提供顶部面板，支持在页面上画星形自动生成书签。",
+      "version": "1.0.0",
+      "author": "PaperInk QA",
+      "minHostVersion": "0.4.0",
+      "tags": ["书签", "画星", "示例"],
+      "apkUrl": "https://github.com/qmzzn114614/paperink-plugins/releases/download/plugin-test-v1.0.0/paperink-plugin-test-1.0.0.apk",
+      "homepage": "https://github.com/qmzzn114614/paperink-plugins"
+    }
+  ]
+}
