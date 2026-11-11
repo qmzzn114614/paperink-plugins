@@ -10,7 +10,7 @@
       "author": "PaperInk QA",
       "minHostVersion": "0.4.0",
       "tags": ["书签", "画星", "示例"],
-      "apkUrl": "https://github.com/qmzzn114614/paperink-plugins/releases/download/plugin-test-v1.0.0/paperink-plugin-test-1.0.0.apk",
+      "apkUrl": "https://gcore.jsdelivr.net/gh/qmzzn114614/paperink-plugins@main/plugins/paperink-plugin-test-1.0.0.apk",
       "homepage": "https://github.com/qmzzn114614/paperink-plugins"
     }
   ]
